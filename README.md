@@ -4,4 +4,5 @@
 - linux
   - shell.md
 - python
+  - re.md
 
